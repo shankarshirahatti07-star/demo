@@ -1,3 +1,3 @@
 # demo
 This is my first Git Repository
-Author=Shankar Shirahatti
+Author-Shankar Shirahatti
